@@ -1,0 +1,24 @@
+.container{
+    border: solid 1px #000;
+    width: 600px;
+    height: 400px;
+    position: relative;
+}
+
+.barra{
+    width: 100%;
+    max-width: 300px;
+    margin:auto;
+}
+
+#btn{
+    cursor: pointer;
+    float: left;
+}
+
+#cor{
+    color: #fff;
+    font-size: 20px;
+    display: inline;
+    float: right;
+}
